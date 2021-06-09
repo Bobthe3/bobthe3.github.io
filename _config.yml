@@ -12,7 +12,7 @@ author: Bobthe3
 description: Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: \images\website_photos\C4EE7F13-4D39-49A1-B382-F7B46D952FDC.jpg
+avatar: \images\website_photos\pic_of_me.JPEG
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ avatar: \images\website_photos\C4EE7F13-4D39-49A1-B382-F7B46D952FDC.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: beermoneydaq@gmail.com
+  email: devanveljI@gmail.com
   facebook:
   flickr:
   github: Bobthe3
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/devan-velji-5b42801a4/
   pinterest:
   rss: rss
   twitter:

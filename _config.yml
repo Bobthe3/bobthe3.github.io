@@ -28,7 +28,7 @@ footer-links:
   instagram:
   linkedin: https://www.linkedin.com/in/devan-velji-5b42801a4/
   pinterest:
-  rss: 
+  rss:
   twitter:
   stackoverflow:
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -45,7 +45,7 @@ google_analytics: UA-43339302-11
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://bobthe3blog.github.io
+url: https:/devanvelji.com
 enforce_ssl:
 
 # If you're hosting your site at a Project repository on GitHub pages
